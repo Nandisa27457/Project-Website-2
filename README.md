@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-A simple portfolio website to showcase projects and skills.
+A simple portfolio website to showcase projects.
 
 ## Installation
 
